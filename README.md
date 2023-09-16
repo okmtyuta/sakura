@@ -1,7 +1,5 @@
-# Usage
+# SAKURA: Markdown system for react
 
-1. Run `pnpm install`
+## 基本設計
+1. [unified](https://github.com/unifiedjs/unified)というライブラリを利用して実装する。
 
-# Build
-
-1. Run `pnpm build`
